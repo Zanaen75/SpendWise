@@ -48,3 +48,18 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+
+Expense Management app
+
+Money In
+Money Out 
+Total Money
+
+Persons
+Who you have borrowed money
+Who you have to get your money back
+
+Reports
+Monthly -> Day by day in a list
